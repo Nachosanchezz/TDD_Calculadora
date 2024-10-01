@@ -14,5 +14,9 @@ Imagina que necesitamos implementar una función que calcule el factorial de un 
 ### **Paso 1:**
 Primero, vamos a crear un archivo llamado myfactorial.py, en el que definiremos la función factorial. Esta función inicialmente no hará nada, simplemente devolverá un valor predeterminado (como 0) para que podamos probarla. Luego, crearemos un archivo llamado test_.py, en el que escribiremos una prueba unitaria para verificar el cálculo del factorial.
 
+Código de myfactorial.py:
+    def factorial(numero):
+        return 0    
+
   
 
