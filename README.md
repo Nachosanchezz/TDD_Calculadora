@@ -1,7 +1,7 @@
-**Taller 2: TDD en Python**
+##### **Taller 2: TDD en Python**
 
-**Ignacio Sánchez Calabrese**
+##### **Ignacio Sánchez Calabrese**
 
-**Repositorio**
-  Link: 
+#### **Link repositorio: **
+  
 
