@@ -14,15 +14,15 @@ class TestCalculator(unittest.TestCase):
         self.calc.multiplicacion(2, 2)
         self.assertEqual(self.calc.value, 4)
     def test_division(self):
-        self.calc.division(9, 9)
+        self.calc.division(2, 2)
         self.assertEqual(self.calc.value, 1)
     def test_potencia(self):
-        self.calc.potencia(7, 7)
-        self.assertEqual(self.calc.value, 49)
+        self.calc.potencia(2,2)
+        self.assertEqual(self.calc.value, 4)
     def test_raiz(self):
-        self.calc.raiz(9)
-        self.assertEqual(self.calc.value, 3)
+        self.calc.raiz(4)
+        self.assertEqual(self.calc.value, 2)
     def test_factorial(self):
-        self.calc.factorial(5)
-        self.assertEqual(self.calc.value, 120)
+        self.calc.factorial(4)
+        self.assertEqual(self.calc.value, 24)
     
