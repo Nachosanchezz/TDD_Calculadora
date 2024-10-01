@@ -17,7 +17,7 @@ class TestCalculator(unittest.TestCase):
         self.calc.division(7, 7)
         self.assertEqual(self.calc.value, 1)
     def test_potencia(self):
-        self.calc.potencia(8,8)
+        self.calc.potencia(8,2)
         self.assertEqual(self.calc.value, 64)
     def test_raiz(self):
         self.calc.raiz(100)
