@@ -1,5 +1,5 @@
 import unittest
-from tests.test_calculator import TestCalculator
+from test.test_calculator import TestCalculator
 
 if __name__ == '__main__':
     unittest.main()
